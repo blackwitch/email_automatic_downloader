@@ -1,0 +1,8 @@
+{
+	"version": 1,
+	"save_dir": "D:/email_files/",
+	"id": "your_google_account@gmail.com",
+	"pw": "CAUTION! INPUT your password",
+	"from_filter": "email_address@you_want.com",
+	"file_ext_filter": "xlsx"
+}
